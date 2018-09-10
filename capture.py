@@ -1,6 +1,6 @@
 # This project is to capture the web cam footage
 
-# Imprting the modules
+# Importing the modules
 import cv2
 
 
